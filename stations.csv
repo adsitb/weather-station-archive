@@ -1,0 +1,25 @@
+station,city,latitude,longitude,utc_offset_standard_hours
+KATL,Atlanta,33.6301,-84.4418,-5
+KAUS,Austin,30.1945,-97.6699,-6
+KBOS,Boston,42.3606,-71.0097,-5
+KDCA,Washington DC,38.8483,-77.0342,-5
+KDEN,Denver,39.8466,-104.6562,-7
+KDFW,Dallas,32.8998,-97.0403,-6
+KEWR,Newark,40.6825,-74.1694,-5
+KHOU,Houston,29.6375,-95.2825,-6
+KLAS,Las Vegas,36.0719,-115.1634,-8
+KLAX,Los Angeles,33.9382,-118.3866,-8
+KMDW,Chicago,41.7868,-87.7522,-6
+KMIA,Miami,25.7881,-80.3169,-5
+KMSP,Minneapolis,44.8831,-93.2289,-6
+KMSY,New Orleans,29.9934,-90.258,-6
+KNYC,New York City,40.7789,-73.9692,-5
+KOKC,Oklahoma City,35.3889,-97.6007,-6
+KPHL,Philadelphia,39.8733,-75.2268,-5
+KPHX,Phoenix,33.4277,-112.0038,-7
+KSAN,San Diego,32.7336,-117.1831,-8
+KSAT,San Antonio,29.5443,-98.4839,-6
+KSDF,Louisville,38.1811,-85.7392,-5
+KSEA,Seattle,47.4447,-122.3144,-8
+KSFO,San Francisco,37.6197,-122.3647,-8
+KTTN,Trenton,40.2767,-74.8135,-5

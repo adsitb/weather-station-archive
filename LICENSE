@@ -1,0 +1,19 @@
+Weather Station Archive
+
+This compilation is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+You are free to share and adapt this data for any purpose, including commercially, as long as you give
+appropriate credit (for example: "Weather Station Archive, github.com/adsitb/weather-station-archive").
+
+Third-party data in this archive:
+
+- Forecast data (forecasts/): Weather data by Open-Meteo.com (https://open-meteo.com/), licensed under
+  CC BY 4.0. Reuse must credit Open-Meteo.com.
+- Observations and official daily climate values (observations/, daily_climate/): from NOAA, the National
+  Weather Service, the NOAA Aviation Weather Center and NOAA MADIS. US government works, public domain in the
+  United States. Daily climate values were read through the Iowa Environmental Mesonet's archive of the NWS
+  climate reports.
+
+The data is provided "as is", without warranty of any kind. It is not an official record; for official
+values consult the National Weather Service.
